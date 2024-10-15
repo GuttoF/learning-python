@@ -55,7 +55,9 @@
 				"donjayamanne.python-extension-pack",
 				"charliermarsh.ruff",
 				"vscodevim.vim",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"donjayamanne.githistory",
+				"formulahendry.code-runner"
 				],
 			"settings": {
             	"editor.fontSize": 14,
