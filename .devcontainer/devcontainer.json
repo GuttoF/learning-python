@@ -6,7 +6,7 @@
 			"ppa": true,
 			"version": "latest"
 		},
-		"ghcr.io/mikaello/devcontainer-features/modern-shell-utils:1": {},
+		"ghcr.io/mikaello/devcontainer-features/modern-shell-utils:2": {},
 		"ghcr.io/devcontainers-contrib/features/pre-commit:2": {},
 		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
 		"ghcr.io/devcontainers/features/github-cli:1": {
